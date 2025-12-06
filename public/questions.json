@@ -1,0 +1,52 @@
+[
+  {
+    "texte": "Quelle technologie utilise ce projet ?",
+    "choix": ["React", "Vue", "Angular"],
+    "bonneReponse": "React"
+  },
+  {
+    "texte": "Quel outil a été utilisé pour créer ce projet ?",
+    "choix": ["Create React App", "Vite", "Next.js"],
+    "bonneReponse": "Vite"
+  },
+  {
+    "texte": "Dans quel langage ce projet est écrit ?",
+    "choix": ["Java", "TypeScript", "JavaScript"],
+    "bonneReponse": "JavaScript"
+  },
+  {
+    "texte": "Que signifie JSX ?",
+    "choix": ["JavaScript XML", "JSON Xpress", "Java Syntax eXtended"],
+    "bonneReponse": "JavaScript XML"
+  },
+  {
+    "texte": "Quel hook est utilisé pour gérer un état dans un composant ?",
+    "choix": ["useEffect", "useState", "useContext"],
+    "bonneReponse": "useState"
+  },
+  {
+    "texte": "Quel hook s'exécute après le rendu du composant ?",
+    "choix": ["useAfter", "useEffect", "useRender"],
+    "bonneReponse": "useEffect"
+  },
+  {
+    "texte": "Quel attribut permet d'appliquer une classe CSS en JSX ?",
+    "choix": ["className", "cssClass", "class"],
+    "bonneReponse": "className"
+  },
+  {
+    "texte": "React est principalement utilisé pour construire...",
+    "choix": ["des bases de données", "des interfaces utilisateurs", "des serveurs web"],
+    "bonneReponse": "des interfaces utilisateurs"
+  },
+  {
+    "texte": "Quelle commande permet de lancer le projet en mode développement ?",
+    "choix": ["npm start", "npm run dev", "npm run build"],
+    "bonneReponse": "npm run dev"
+  },
+  {
+    "texte": "Quel mot-clé permet d'exporter un composant React ?",
+    "choix": ["expose", "export default", "module.export"],
+    "bonneReponse": "export default"
+  }
+]

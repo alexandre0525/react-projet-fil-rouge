@@ -6,4 +6,6 @@ function Question({ texte }) {
   )
 }
 
+
+
 export default Question
